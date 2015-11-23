@@ -1,0 +1,26 @@
+body {
+  background-color: #A200B3;
+}
+h1 {
+  color: #A200B3;
+  font-size: 72px;
+  font-family: monospace;
+  background-color: pink;
+}
+img {
+  width: 100px;
+}
+footer a {
+  color: red;
+  text-decoration: none;
+}
+input {
+  padding: 10px;
+  font-size: 32pt;
+  border: none;
+}
+input:focus {
+  outline: none;
+  background-color: black;
+  color: white;
+}
