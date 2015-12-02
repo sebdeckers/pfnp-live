@@ -10,3 +10,4 @@ This is not a repeat of the first PFNP class that I taught. It follows a much mo
 - [Intro to front- and back-end development](lessons/1)
 - [The Front End](lessons/2)
 - [RESTful JSON API back end](lessons/3)
+- [Real-time full-stack demo](lessons/4)

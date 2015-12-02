@@ -67,7 +67,7 @@ Open the app in the browser.
 - Home: http://localhost:3000/
 - Edit: http://localhost:3000/edit/anything
 
-## Delpoyment
+## Deployment
 Commit the changed code and sync the code to GitHub.
 
 Sign up for Heroku and create a new App. Connect it to GitHub and choose automatic deployments.
